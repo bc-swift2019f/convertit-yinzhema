@@ -30,7 +30,7 @@
                                     <action selector="userInputChanged:" destination="BYZ-38-t0r" eventType="editingChanged" id="ec8-bQ-u35"/>
                                 </connections>
                             </textField>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="miles" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ctv-20-yI7">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ctv-20-yI7">
                                 <rect key="frame" x="276" y="63" width="103" height="24"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="103" id="RzH-aq-mke"/>
